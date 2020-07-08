@@ -1,0 +1,12 @@
+internet = (international network)
+Jaringan dari satu perangkat/ server ke perangkat lainnya dan saling 
+berhubungan
+
+- ditemukan pada tahun 1960 dengan nama ARPANET.
+- 1980, mulai di pakai oleh kalangan terbatas.
+- 1982, di publikasikan ke publik.
+- 1984, pertama kali di temukannya domain.
+- 1986, ARPANET di gantikan oleh NSFNET(National Science Foundation Network).
+- 1990, dikenalkannya WWW(World Wide Web) oleh CERN.
+- 1993, didirikannya InteNIC sebagai tempat pendaftaran nama domain dari publik.
+- 1994, internet masuk Indonesia.
